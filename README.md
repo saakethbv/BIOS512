@@ -2,6 +2,8 @@
 
 Saaketh Vummalaneni
 
+[Link to NBViewer](https://nbviewer.jupyter.org/github/saakethbv/BIOS512/tree/master/)
+
 - lists
     - indented list
     
